@@ -2,8 +2,8 @@
 
 This project is a single-page CV built using only HTML, focusing on semantic structure, SEO meta tags, and Open Graph tags.
 
-## 🔗 Live Project
-https://fadingintovoid.github.io/single-page-cv/
+## 🔗 Project Page
+https://roadmap.sh/projects/single-page-cv
 
 ## 📌 Features
 - Semantic HTML structure
